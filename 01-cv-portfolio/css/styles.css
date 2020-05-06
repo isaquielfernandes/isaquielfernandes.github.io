@@ -128,8 +128,8 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 4. INTRO SECTION
 --------------------------------- */
 
-.intro-section{ padding-top: 100px; position: relative; background-size: cover; 
-	z-index: 1;background-image: url(../../images/img-004.jpg); }
+.intro-section{ padding-top: 100px; position: relative; min-height: 100%; background-size: cover; 
+	z-index: 1;background-image: url(../../images/img-005.jpg); }
 
 .intro-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
 	right: 0; background: rgba(0,0,0, .2); }
