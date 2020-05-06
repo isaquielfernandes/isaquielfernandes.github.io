@@ -238,6 +238,23 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .counter .desc{ position: absolute; bottom: 4px; right: 0px; width: 110px; }
 
+/* ---------------------------------
+9. SKILLS SECTION
+--------------------------------- */
+
+.skills-section .expert{ margin-top: 10px; display: inline-block; padding: 1px 25px 0; 
+	border-radius: 5px; background: #FFAB00; color: #fff; }
+
+	
+/* LINE PROGRESSBAR */
+	
+.line-progress{ position: relative; padding-bottom: 25px; }
+
+.line-progress .progressbar-text{ position: absolute; bottom: 0; right: 0; font-size: 1.1em; 
+	font-weight: 500; color: #777!important; }
+
+.line-progress .progress-title{ position: absolute; bottom: 0; left: 0; color: #777; }
+
 
 /* RADIAL PREOGRESS SECTION */
 
