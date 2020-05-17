@@ -1,9 +1,13 @@
+//Particles.js
+window.onload = function() {
+    Particles.init({
+        selector: '.background'
+    });
+};
 
 (function ($) {
 
     "use strict";
-	
-	
 
 	// LINE PROGRESS BAR
 	enableLineProgress();
