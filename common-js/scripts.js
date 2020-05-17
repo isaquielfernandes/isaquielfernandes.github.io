@@ -8,7 +8,7 @@ window.onload = function() {
     responsive: [
       {
         breakpoint: 768, options: {
-             maxParticles: 200, color: '#48F2E3', connectParticles: false
+             maxParticles: 200, color: '#0ea8ae', connectParticles: false
       }
       }, {
          breakpoint: 425, options: { maxParticles: 100, connectParticles: true
