@@ -2,7 +2,7 @@
 window.onload = function() {
     Particles.init({
     // normal options
-       selector: '.background',  maxParticles: 450,
+       selector: '.background',  maxParticles: 350, color: '#0ea8ae',
     
    // options for breakpoints
     responsive: [
@@ -11,7 +11,7 @@ window.onload = function() {
              maxParticles: 200, color: '#0ea8ae', connectParticles: false
       }
       }, {
-         breakpoint: 425, options: { maxParticles: 100, connectParticles: true
+         breakpoint: 425, options: { maxParticles: 100, connectParticles: false
       }
       }, {
       breakpoint: 320, options: { maxParticles: 0
